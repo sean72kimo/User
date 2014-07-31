@@ -1,0 +1,17 @@
+{
+	"installed_packages":
+	[
+		"ConvertToUTF8",
+		"Django Manage Commands",
+		"Emmet",
+		"Emmet Css Snippets",
+		"LiveStyle",
+		"Python 3",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimePythonIDE"
+	]
+}
