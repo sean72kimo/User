@@ -36,3 +36,7 @@ Icon
 .Trashes
 
 *.json
+*.json
+Package Control.cache/ad7758d143e99a76034aad71ae2a1f3b
+*.info
+*.last-run
