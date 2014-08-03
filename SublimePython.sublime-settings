@@ -1,0 +1,42 @@
+{
+    // leave empty string to use default system interpreter
+    // e.g. /usr/local/bin/python
+    // or "C:\\Python27\\python.exe"
+    // if you use virtualenvs, then set the absolute path to the virtualenv's
+    // python in your project settings (Project->Edit Project) as in:
+    //
+    // {
+    //     "folders": ...
+    //     "settings":
+    //     {
+    //         "python_interpreter": "/Users/USER/.virtualenvs/PROJECT/bin/python"
+    //     }
+    // }
+    "python_interpreter": "",
+
+    // make python_open_documentation command output in a view or in the output
+    // panel if false
+    "open_pydoc_in_view": false,
+
+    // when a doc view is created it will be placed in the active view group
+    // if false and only one group exist then a new group will be created
+    "create_view_in_same_group": false,
+
+    // Linter settings
+    "python_linting": true,
+    "python_linter_mark_style": "none", // "none" or "outline"
+    "python_linter_gutter_marks": true,
+    "python_linter_gutter_marks_theme": "simple", // see folder gutter_mark_themes
+    "pep8": true,
+    "pep8_ignore": ["E225","E251","E501","E303","W391","E128","W191"],
+    "pep8_max_line_length": 80,
+    "pyflakes_ignore": []
+}
+
+// E225 missing whitespace around operator
+// E251 unexpected spaces around keyword / parameter equals
+// E501 (^) line too long (82 > 79 characters)
+// E303 too many blank lines (3)
+// W391 blank line at end of file
+// E128 (^) continuation line under-indented for visual indent
+// W191 indentation contains tabs
