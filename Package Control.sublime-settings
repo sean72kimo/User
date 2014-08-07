@@ -2,11 +2,10 @@
 	"installed_packages":
 	[
 		"ConvertToUTF8",
-		"Django Manage Commands",
+		"Djaneiro",
 		"Emmet",
 		"Emmet Css Snippets",
 		"LiveStyle",
-		"Python 3",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
