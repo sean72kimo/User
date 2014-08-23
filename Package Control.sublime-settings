@@ -13,7 +13,6 @@
 		"SublimeLinter",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
-		"SublimePythonIDE",
-		"Sublimerge Pro"
+		"SublimePythonIDE"
 	]
 }
