@@ -2,9 +2,10 @@
 	"auto_complete_delay": 500,
 	"color_scheme": "Packages/User/Twilight_custom.tmTheme",
 	"detect_indentation": false,
-	"font_size": 15,
+	"font_size": 16,
 	"ignored_packages":
 	[
+		"Djaneiro",
 		"Vintage"
 	],
 	"tab_size": 4,
